@@ -1,7 +1,7 @@
 {
   "imageName": "devkitpro/devkitppc",
-  "imageDigest": "sha256:e860afa33a149d4381c4de3115e8478da9ec3247f27adec91c5542dc83cc607b",
-  "sha256": "0bd62ygv968k2r8qx3gm2lj1yzp0n9fqzhhyv1ybz0fkcjs8ffmc",
+  "imageDigest": "sha256:acd3b1285632f2b37830c53a7808d5ddca8ef3e7d2fd65ae5750fb0df354c2a1",
+  "sha256": "06wq49hsvri3zg494x0z8f17d4pqxmi0abirfiql81ndpb9x77wr",
   "finalImageName": "devkitpro/devkitppc",
   "finalImageTag": "latest"
 }
